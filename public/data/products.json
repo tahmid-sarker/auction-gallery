@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Leica M3 Camera",
+    "description": "Classic vintage camera with iconic design.",
+    "currentBidPrice": 4500,
+    "timeLeft": "2 days left",
+    "bidsCount": 27,
+    "image": "https://i.postimg.cc/W17F8vRJ/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Guitar",
+    "description": "Legendary electric guitar with rich sound.",
+    "currentBidPrice": 3500,
+    "timeLeft": "1 day left",
+    "bidsCount": 31,
+    "image": "https://i.postimg.cc/ZqK9DMZs/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Apple Macintosh 128K (1984)",
+    "description": "Iconic vintage computer from Apple's early years.",
+    "currentBidPrice": 12000,
+    "timeLeft": "3 days left",
+    "bidsCount": 18,
+    "image": "https://i.postimg.cc/XJrrnBrw/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Luxury dive watch with timeless style.",
+    "currentBidPrice": 8500,
+    "timeLeft": "5 hours left",
+    "bidsCount": 45,
+    "image": "https://i.postimg.cc/QC5VTLkC/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby'",
+    "description": "Rare first edition of F. Scott Fitzgerald's classic novel.",
+    "currentBidPrice": 1800,
+    "timeLeft": "1 day left",
+    "bidsCount": 23,
+    "image": "https://i.postimg.cc/hv9PGLc7/Bid6-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Banksy Screen Print",
+    "description": "Original screen print by renowned artist Banksy.",
+    "currentBidPrice": 7000,
+    "timeLeft": "2 days left",
+    "bidsCount": 38,
+    "image": "https://i.postimg.cc/ZKx5txwG/Bid7-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Eames Lounge Chair",
+    "description": "Iconic mid-century modern lounge chair",
+    "currentBidPrice": 5000,
+    "timeLeft": "4 days left",
+    "bidsCount": 16,
+    "image": "https://i.postimg.cc/3JXdrTxb/Bid5-min.png"
+  }
+]
